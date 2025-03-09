@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Junkai Zhang
 
 # Full name (for SEO)
 first_name: Junkai
